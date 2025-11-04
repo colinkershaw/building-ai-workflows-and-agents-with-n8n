@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: User
+
+Submitted: 2025-11-03T18:46:53.073-07:00
+
+Description:
+User has a cracked monitor.
